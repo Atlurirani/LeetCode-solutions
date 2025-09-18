@@ -22,4 +22,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Atlurirani/LeetCode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Atlurirani/LeetCode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Atlurirani/LeetCode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
